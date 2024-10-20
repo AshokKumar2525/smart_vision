@@ -88,6 +88,6 @@ Upload an image containing grocery items. The app will detect and count the type
 
 For further information or inquiries, feel free to reach out at:
 
-- **Veera Venkata Karthik Barrekala**
-- **Email**: [bvvkarthik1155@gmail.com](mailto:bvvkarthik1155@gmail.com)
-- **GitHub**: [VeeraVenkataKarthikBarrekala](https://github.com/Karthik110505)
+- **Malineni Ashok kumar**
+- **Email**: [ashokkumarmalineni25@gmail.com](mailto:ashokkumarmalineni25@gmail.com)
+- **GitHub**: [AshokKumarMalineni](https://github.com/AshokKumar2525)
